@@ -1,7 +1,10 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+SoftWare as a Service Prototype Project
+Subscription-based Web Application
+
+http://WebVamped.com
+
 
 Things you may want to cover:
 
