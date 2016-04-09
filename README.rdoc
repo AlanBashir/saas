@@ -5,6 +5,8 @@ Subscription-based Web Application
 
 http://WebVamped.com
 
+Project hosted @:
+https://calm-plateau-12776.herokuapp.com/
 
 Things you may want to cover:
 
